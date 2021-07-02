@@ -1,0 +1,1464 @@
+@media(max-width:2560px) and (min-width:1921px){
+    .banner-man img {
+        width: 77%;
+    }
+    .banner-man {
+        left: 56%;
+    }
+    .doctors-in{
+        display: none;
+    }
+    .btn-navi{
+        display: none;
+    }
+}
+@media(max-width:1920px) and (min-width:1441px){
+    .banner-man img {
+        width: 77%;
+    }
+    .banner-man {
+        right: 0%;
+    }
+    .doctors-in{
+        display: none;
+    }
+    .btn-navi{
+        display: none;
+    }
+}
+@media(max-width:1440px) and (min-width:1200px){
+    .banner-man img {
+        width: 97%;
+    }
+    .banner-man {
+        right: 0%;
+        left: 56%;
+    }
+    .doctors-in{
+        display: none;
+    }
+    .btn-navi{
+        display: none;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .banner-man img {
+        width: 98%;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 18px;
+    }
+    .left-area h1 {
+        font-size: 37px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 38px;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .logo img {
+        width: 69%;
+    }
+    .informations .icons i {
+        font-size: 33px;
+    }
+    .informations .text p {
+        font-size: 11px;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+    }
+    .welcome-content p {
+        padding-right: 77px;
+    }
+    .features img {
+        width: 13%;
+    }
+    .features h4 {
+        font-size: 22px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 57.9%;
+        padding: 7px 5px;
+        font-size: 18px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 16px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 36%;
+        padding: 8px 11px;
+        font-size: 16px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 19px;
+    }
+    .service-heading img {
+        width: 13%;
+    }
+    .pricing-heading h3 {
+        font-size: 27px;
+    }
+    .prices h1 {
+        font-size: 44px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+    width: 11%;
+
+    }
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+    width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 11px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 209px;
+        font-size: 15px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 15px;
+    }
+    .doctors-in{
+        display: none;
+    }
+    .btn-navi{
+        display: none;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .banner-man img {
+        width: 98%;
+        display: none;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 0px;
+        padding: 0 55px;
+    }
+    .left-area h1 {
+        font-size: 36px;
+        padding: 14px 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 38px;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .appointment{
+        display: none;
+    }
+    .logo img {
+        width: 60%;
+    }
+    .informations .icons i {
+        font-size: 32px;
+    }
+    .informations .text p {
+        font-size: 11px;
+        display: none;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+        display: none;
+    }
+    .welcome-content p {
+        padding-right: 0;
+        margin-bottom: 49px;
+        padding: 0 102px;
+    }
+    .features img {
+        width: 13%;
+    }
+    .features h4 {
+        font-size: 21px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 23px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 57.4%;
+        padding: 7px 5px;
+        font-size: 18px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 16px;
+        padding: 8px 9px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 37%;
+        padding: 8px 11px;
+        font-size: 16px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 20px;
+    }
+    .service-heading img {
+        width: 13%;
+    }
+    .pricing-heading h3 {
+        font-size: 23px;
+    }
+    .prices h1 {
+        font-size: 42px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+        font-size: 14px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+    width: 11%;
+
+    }
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+    width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 11px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 310px;
+        font-size: 15px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 15px;
+    }
+    .left-area h2 {
+        font-size: 34px;
+    }
+    .welcome-content h2 {
+        font-size: 27px;
+    }
+    .owl-dot span {
+        margin-bottom: -55px;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-in{
+        display: inherit;
+        margin-top: 45px;
+    }
+    .left-el{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+    .second-thing{
+        text-align: center;
+    }
+    .newsletter{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: -49px;
+    }
+    .footer-content-3 p{
+        
+    padding: 0px 59px;
+    }
+    .footer-logo img {
+        width: 53%;
+    }
+    .footer-content-2 h3 {
+        font-size: 29px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .banner-man img {
+        width: 98%;
+        display: none;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 0px;
+        padding: 0 55px;
+    }
+    .left-area h1 {
+        font-size: 36px;
+        padding: 14px 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .appointment{
+        display: none;
+    }
+    .logo img {
+        width: 73%;
+    }
+    .informations .icons i {
+        font-size: 33px;
+    }
+    .informations .text p {
+        font-size: 11px;
+        display: none;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+        display: none;
+    }
+    .welcome-content p {
+        padding-right: 0;
+        margin-bottom: 49px;
+        padding: 0 40px;
+    }
+    .features img {
+        width: 13%;
+    }
+    .features h4 {
+        font-size: 21px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 23px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 59%;
+        padding: 7px 5px;
+        font-size: 15px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 13px;
+        padding: 8px 8px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 34.3%;
+        padding: 8px 10px;
+        font-size: 13px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 20px;
+    }
+    .service-heading img {
+        width: 17%;
+    }
+    .pricing-heading h3 {
+        font-size: 23px;
+    }
+    .prices h1 {
+        font-size: 42px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+        font-size: 14px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+    width: 11%;
+
+    }
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+    width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 10px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 310px;
+        font-size: 15px;
+        padding: 10px 16px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 15px;
+    }
+    .left-area h2 {
+        font-size: 34px;
+    }
+    .welcome-content h2 {
+        font-size: 27px;
+    }
+    .owl-dot span {
+        margin-bottom: -55px;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-in{
+        display: inherit;
+        margin-top: 45px;
+    }
+    .left-el{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+    .second-thing{
+        text-align: center;
+    }
+    .newsletter{
+        text-align: left;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 1px;
+    }
+    .footer-content-3 p{
+        padding: 0;
+    }
+    .footer-content-2 {
+        margin-top: -45px;
+    }
+    .post img {
+        width: 15%;
+        height: 27%;
+    }
+    .footer-logo img {
+        width: 35%;
+    }
+    .footer-content-2 h3 {
+        font-size: 28px;
+    }
+    .heading h2 {
+        font-size: 28px;
+    }
+    .doctor-data p {
+        font-size: 15px;
+    }
+    .doctor-data h4 {
+        font-size: 20px;
+    }
+    .service {
+        padding: 37px 21px 37px 21px;
+    }
+}
+@media(max-width:575px) and (min-width:0px){
+    .banner-man img {
+        width: 98%;
+        display: none;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 0px;
+        padding: 0 18px;
+    }
+    .left-area h1 {
+        font-size: 29px;
+        padding: 14px 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .appointment{
+        display: none;
+    }
+    .logo img {
+        width: 96%;
+    }
+    .informations .icons i {
+        font-size: 30px;
+    }
+    .informations .text p {
+        font-size: 11px;
+        display: none;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+        display: none;
+    }
+    .welcome-content p {
+        padding-right: 0;
+        margin-bottom: 49px;
+        padding: 0 0px;
+    }
+    .features img {
+        width: 12%;
+    }
+    .features h4 {
+        font-size: 21px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 23px;
+        padding: 0 20px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 57%;
+        padding: 7px 6px;
+        font-size: 18px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 17px;
+        padding: 8px 9px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 38.3%;
+        padding: 8px 12px;
+        font-size: 17px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 20px;
+    }
+    .service-heading img {
+        width: 13%;
+    }
+    .pricing-heading h3 {
+        font-size: 23px;
+    }
+    .prices h1 {
+        font-size: 42px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+        font-size: 14px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+width: 11%;
+
+}
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+    width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 11px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 310px;
+        font-size: 15px;
+        padding: 10px 16px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .left-area h2 {
+        font-size: 30px;
+    }
+    .welcome-content h2 {
+        font-size: 27px;
+    }
+    .owl-dot span {
+        margin-bottom: -55px;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-in{
+        display: inherit;
+        margin-top: 45px;
+    }
+    .left-el{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+    .second-thing{
+        text-align: center;
+    }
+    .newsletter{
+        text-align: left;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 1px;
+    }
+    .footer-content-3 p{
+        padding: 0;
+    }
+    .footer-content-2 {
+        margin-top: -45px;
+    }
+    .post img {
+        width: 15%;
+        height: 27%;
+    }
+    .footer-logo img {
+        width: 35%;
+    }
+    .footer-content-2 h3 {
+        font-size: 28px;
+    }
+    .heading h2 {
+        font-size: 28px;
+    }
+    .doctor-data p {
+        font-size: 15px;
+    }
+    .doctor-data h4 {
+        font-size: 21px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+}
+@media(max-width:375px) and (min-width:0px){
+    .banner-man img {
+        width: 98%;
+        display: none;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 0px;
+        padding: 0 0px;
+    }
+    .left-area h1 {
+        font-size: 26px;
+        padding: 14px 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .appointment{
+        display: none;
+    }
+    .logo img {
+        width: 97%;
+    }
+    .informations .icons i {
+        font-size: 27px;
+    }
+    .informations .text p {
+        font-size: 11px;
+        display: none;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+        display: none;
+    }
+    .welcome-content p {
+        padding-right: 0;
+        margin-bottom: 49px;
+        padding: 0 0px;
+    }
+    .features img {
+        width: 12%;
+    }
+    .features h4 {
+        font-size: 21px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 23px;
+        padding: 0 20px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 57%;
+        padding: 7px 5px;
+        font-size: 17px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 16px;
+        padding: 8px 8px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 38.3%;
+        padding: 8px 11px;
+        font-size: 16px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 20px;
+    }
+    .service-heading img {
+        width: 13%;
+    }
+    .pricing-heading h3 {
+        font-size: 23px;
+    }
+    .prices h1 {
+        font-size: 42px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+        font-size: 14px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+width: 11%;
+
+}
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+    width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 11px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 249px;
+        font-size: 15px;
+        padding: 10px 16px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .left-area h2 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+    .welcome-content h2 {
+        font-size: 24px;
+    }
+    .owl-dot span {
+        margin-bottom: -55px;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-in{
+        display: inherit;
+        margin-top: 45px;
+    }
+    .left-el{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+    .second-thing{
+        text-align: center;
+    }
+    .newsletter{
+        text-align: left;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 1px;
+    }
+    .footer-content-3 p{
+        padding: 0;
+    }
+    .footer-content-2 {
+        margin-top: -45px;
+    }
+    .post img {
+        width: 15%;
+        height: 27%;
+    }
+    .footer-logo img {
+        width: 35%;
+    }
+    .footer-content-2 h3 {
+        font-size: 28px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .doctor-data p {
+        font-size: 15px;
+    }
+    .doctor-data h4 {
+        font-size: 21px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+    .service {
+        padding: 37px 35px 37px 37px;
+    }
+    .service a {
+        font-size: 15px;
+    }
+    .btn-book{
+        font-size: 15px;
+    }
+}
+@media(max-width:320px) and (min-width:0px){
+    .banner-man img {
+        width: 98%;
+        display: none;
+    }
+    .banner-man {
+        right: 0%;
+        left: 53%;
+    }
+    .left-area p {
+        padding-right: 0px;
+        padding: 0 0px;
+    }
+    .left-area h1 {
+        font-size: 21px;
+        padding: 14px 23px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 14px;
+    }
+    .appointment h3 {
+        font-size: 15px;
+    }
+    .appointment{
+        display: none;
+    }
+    .logo img {
+        width: 100%;
+    }
+    .informations .icons i {
+        font-size: 25px;
+    }
+    .informations .text p {
+        font-size: 11px;
+    }
+    .informations .text h4 {
+        font-size: 17px;
+    }
+    .welcome-content p {
+        padding-right: 0;
+        margin-bottom: 49px;
+        padding: 0 0px;
+    }
+    .features img {
+        width: 12%;
+    }
+    .features h4 {
+        font-size: 21px;
+    }
+    .features p {
+        padding-right: 0px;
+        line-height: 23px;
+        padding: 0 20px;
+    }
+    .doctor-img .fa-google-plus-g {
+        left: 57%;
+        padding: 7px 5px;
+        font-size: 17px;
+    }
+    .heading p {
+        padding: 0 0;
+        margin-bottom: 52px;
+    }   
+    .carosel-heading p{
+        
+        margin-bottom: 55px;
+    } 
+    .doctor-img .fa-twitter {
+        font-size: 16px;
+        padding: 8px 8px;
+    }
+    .doctor-img .fa-facebook-f {
+        left: 38.3%;
+        padding: 8px 11px;
+        font-size: 16px;
+    }
+    .service p {
+        font-size: 14px;
+        color: #707070;
+        font-weight: 500;
+    }
+    .service-heading h4 {
+        margin-left: 11px;
+        font-size: 20px;
+    }
+    .service-heading img {
+        width: 13%;
+    }
+    .pricing-heading h3 {
+        font-size: 23px;
+    }
+    .prices h1 {
+        font-size: 42px;
+    }
+    .price-offers ul li {
+        line-height: 38px;
+        font-size: 14px;
+    }   
+    .first{
+
+    width: 16%;
+
+    } 
+        .second{
+
+    width: 25%;
+
+    }
+        .third{
+
+width: 11%;
+
+}
+        .fourth{
+
+    width: 18%;
+
+    }
+        .fifth{
+            
+width: 10%;
+    }
+    .price-offers {
+        margin-top: 0px;
+        border: 5px solid transparent;
+    }    
+    .price-offers:hover {
+        border: 5px solid #f69165;
+    }
+    .footer-content p {
+        padding-right: 0px;
+    }
+    .footer-text h5 {
+        font-size: 15px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .post p {
+        font-size: 13px;
+    }
+    .post h5 {
+        padding-right: 0;
+    }
+    .follow h4 {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    input[type="submit"] {
+        padding: 10px 12px;
+        font-size: 14px;
+        width: 83px;
+    }
+    input {
+        width: 209px;
+        font-size: 15px;
+        padding: 10px 16px;
+    }
+    ::placeholder{
+        color: #3d3d3d;
+        font-size: 14px;
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .follow i {
+        font-size: 14px;
+    }
+    .fa-facebook-f {
+        padding: 9px 11px;
+    }
+    .fa-google-plus-g {
+        padding: 9px 6px;
+    }
+    .fa-linkedin-in {
+        padding: 9px 10px;
+    }
+    .fa-dribbble {
+        padding: 9px 9px;
+    }
+    .fa-pinterest-p {
+        padding: 9px 11px;
+    }
+    .footer-down h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .left-area h2 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+    .welcome-content h2 {
+        font-size: 24px;
+        margin-bottom: 19px;
+    }
+    .owl-dot span {
+        margin-bottom: -55px;
+    }
+    .doctors{
+        display: none;
+    }
+    .doctors-in{
+        display: inherit;
+        margin-top: 45px;
+    }
+    .left-el{
+        text-align: center;
+        margin-left: auto!important;
+        margin-right: auto!important;
+    }
+    .second-thing{
+        text-align: center;
+    }
+    .newsletter{
+        text-align: left;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        margin-top: 1px;
+    }
+    .footer-content-3 p{
+        padding: 0;
+    }
+    .footer-content-2 {
+        margin-top: -45px;
+    }
+    .post img {
+        width: 15%;
+        height: 27%;
+    }
+    .footer-logo img {
+        width: 50%;
+    }
+    .footer-content-2 h3 {
+        font-size: 28px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .doctor-data p {
+        font-size: 15px;
+    }
+    .doctor-data h4 {
+        font-size: 21px;
+    }
+    .btn-learn {
+        font-size: 14px;
+    }
+    .service {
+        padding: 37px 35px 37px 37px;
+    }
+    .service a {
+        font-size: 15px;
+    }
+    .btn-book{
+        font-size: 14px;
+    }
+    .btn-nav h5 {
+        font-size: 14px;
+    }
+}
